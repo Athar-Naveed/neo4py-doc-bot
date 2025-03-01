@@ -39,16 +39,12 @@ huggingface-hub==0.29.1
 idna==3.10
 jiter==0.8.2
 joblib==1.4.2
-llama-cloud==0.1.13
 llama-cloud-services==0.6.3
-llama-index==0.12.22
 llama-index-agent-openai==0.4.6
 llama-index-cli==0.4.1
 llama-index-core==0.12.22
-llama-index-embeddings-gemini==0.3.1
 llama-index-embeddings-openai==0.3.1
 llama-index-indices-managed-llama-cloud==0.6.8
-llama-index-llms-groq==0.3.1
 llama-index-llms-openai==0.3.25
 llama-index-llms-openai-like==0.3.3
 llama-index-multi-modal-llms-openai==0.4.3
@@ -64,7 +60,6 @@ nest-asyncio==1.6.0
 networkx==3.4.2
 nltk==3.9.1
 numpy==2.2.3
-openai==1.65.2
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
